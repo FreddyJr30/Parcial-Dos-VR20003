@@ -7,9 +7,12 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>CAJA DE CREDITO</h1>
-
+    <h1>CAJA DE CREDITO</h1>
+    <div class="tabla-amortizacion">
+        
+    </div>
+    <div class="form-solicitud">
+        <h3>Ficha de Solicitud de Credito</h3>
     </div>
 </body>
 </html>
