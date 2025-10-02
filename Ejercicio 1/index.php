@@ -21,7 +21,6 @@
     </div>
     <div class="form-solicitud">
         <h3>Ficha de Solicitud de Credito</h3>
-        input
     </div>
 </body>
 </html>
